@@ -1,0 +1,210 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_75A66947_6594_3B23_41D7_143C76F2CEFE.source = http://twitter.com/loremipsum
+LinkBehaviour_75A67947_6594_3B23_41C5_EE6F2356B4C3.source = http://www.facebook.com/loremipsum
+LinkBehaviour_75A6B947_6594_3B23_41CF_8935E676154A.source = https://www.loremipsum.com
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_67B3E6D8_7189_E1B1_41A6_8BD252D8179B.text =        Welcome to  \
+Veersouda Park
+HotspotPanoramaOverlayTextImage_5D027B62_7DE9_37A3_41CE_EC4A7DB0360F.text = Back to Circle
+HotspotPanoramaOverlayTextImage_71DA1460_71BB_E091_41C2_F57B34A019EE.text = Congress \
+Well
+HotspotPanoramaOverlayTextImage_843C9F9C_9099_2E84_41CF_45F6B73466FB.text = Congress Presidential Procession
+HotspotPanoramaOverlayTextImage_83A9BFD0_90E9_2E9C_41E1_5F5789A6732D.text = Congress Presidential Procession
+HotspotPanoramaOverlayTextImage_8B7FAE3C_9F77_518A_41CD_93D3B0DC2F13.text = Congress Well
+HotspotPanoramaOverlayTextImage_71A01424_7E2F_D546_41D5_2D910F27EF37.text = Discussion with Jawaharlal Nehru
+HotspotPanoramaOverlayTextImage_84ECB740_90A9_FFFC_41D0_6BFD90933086.text = Flag station arranged by M.S.M. Railway  in 1924, Congress session held at Belgaum
+HotspotPanoramaOverlayTextImage_43A565D5_7198_E3B3_41C7_F03AFE454772.text = Former Chief  \
+Minister of \
+Karnataka
+HotspotPanoramaOverlayTextImage_B6898CD7_919B_3284_41CD_61552B4A9E46.text = Gandhi "A Messenger of Peace"
+HotspotPanoramaOverlayTextImage_886CFDEE_9BB7_D287_41E2_212D001786F8.text = Gandhi & Child
+HotspotPanoramaOverlayTextImage_884F7DA5_9BB4_F285_41D4_2F4AF340C73C.text = Gandhi at Sabarmati (1931)
+HotspotPanoramaOverlayTextImage_B6F075C3_9199_72FC_41C3_82079CA03291.text = Gandhi going to Kashmir Yatra, July 1947
+HotspotPanoramaOverlayTextImage_893351B1_9F4F_329D_41D6_7D2D3D066B9D.text = Gandhi in Dandi March with Sarojini Naidu
+HotspotPanoramaOverlayTextImage_8302DF93_90A9_2E9C_41C0_658505B7AB2E.text = Gandhi touches Belgaum soil
+HotspotPanoramaOverlayTextImage_8B7D4859_9069_118C_41C0_0B58BFC3333F.text = Gandhi with Rabindranath Tagore
+HotspotPanoramaOverlayTextImage_8AF365D8_9069_328C_419A_AF83A5B828FB.text = Gandhi with Sardar Vallabhai Patel and Shri Jawaharlal Nehru
+HotspotPanoramaOverlayTextImage_893891B7_9BB4_D285_41A5_82D072F0A0CD.text = Gandhi with Sardar vallabhai Patel(1945)
+HotspotPanoramaOverlayTextImage_89D5A39D_9F57_3685_41D1_64DE8607E6BB.text = Gandhi with Sarojini Naidu and Prabhashankar Pattani, Mahadev Desai, Ramswami Iyenger
+HotspotPanoramaOverlayTextImage_8F9228A3_9BCB_52BC_41E3_1BA6726220AB.text = Gandhi with Subhashchandra Bose
+HotspotPanoramaOverlayTextImage_842A1468_906B_318C_41DB_03A96588FC8E.text = Gandhi with reception committee chairmain Gangadhar Rao Deshpande
+HotspotPanoramaOverlayTextImage_83DE3681_90E9_717C_41C1_82080121B733.text = Gandhiji Approching to Venue
+HotspotPanoramaOverlayTextImage_86206ACF_90E9_1684_41DE_19F0D79E3D6E.text = Gandhiji and Jawaharlal Nehru getting to address the session
+HotspotPanoramaOverlayTextImage_831BB0A9_90B7_128C_41D1_6374E7F77E05.text = Gandhiji approaching the venue
+HotspotPanoramaOverlayTextImage_84CBBC89_90E9_328D_41A8_FDFC19B982C8.text = Gandhiji giving Presidential Speech at the open session
+HotspotPanoramaOverlayTextImage_9DDF71FE_8FB9_1284_41B4_C562394E286A.text = Gandhiji in  \
+Gandhi Topi
+HotspotPanoramaOverlayTextImage_B6591839_91A9_F18C_41D1_1E955DB8E6C6.text = Gandhiji's Personal Belongings
+HotspotPanoramaOverlayTextImage_845B2348_90A9_178C_41D9_292EF00CBBC3.text = Gopuram Style Entrance
+HotspotPanoramaOverlayTextImage_9DCD8F0F_8FB9_2F83_41D2_8E83076158EF.text = Kasturba Gandhi \
+(1915)
+HotspotPanoramaOverlayTextImage_723D983B_7DDB_31A2_41D1_2E20C750B4ED.text = Library
+HotspotPanoramaOverlayTextImage_9F059FAF_8F97_2E84_41DB_EEE8F058076B.text = Mahatma Gandhi \
+(1915)
+HotspotPanoramaOverlayTextImage_876623A1_906F_16BC_41D9_D35C0125C9E4.text = Mahatma Gandhi addressing after taking over charge
+HotspotPanoramaOverlayTextImage_87CB198A_9069_328F_41E1_FB5916535AE7.text = Mahatma Gandhi addressing the session
+HotspotPanoramaOverlayTextImage_8ECF15CF_9BD7_5285_41B1_CD66153505FD.text = Mahatma Gandhi with Jawaharlal Nehru
+HotspotPanoramaOverlayTextImage_6E070ECD_7E24_B2C6_41D0_AC329CF3B1FF.text = Mahatma Gandhiji with Sevadal Volunteers
+HotspotPanoramaOverlayTextImage_8EB6DD62_9BCF_73BF_41E3_292EAED670DC.text = Mahtma Gandhi
+HotspotPanoramaOverlayTextImage_887A0A5F_9BDB_5185_41DA_1146900410FE.text = Message from Gandhi to World 5th April 1930
+HotspotPanoramaOverlayTextImage_2FAE0E06_71F8_6091_41CA_74CF5D9A0835.text = Mohandas Karamchand Gandhi
+HotspotPanoramaOverlayTextImage_9F1507E5_8FB7_3E85_41C3_200D530E4386.text = Primary School of  \
+Mahatma Gandhi
+HotspotPanoramaOverlayTextImage_848AD51F_90F7_1385_41BD_6E66FC6D0018.text = Proceeding to Congress Pandal
+HotspotPanoramaOverlayTextImage_8691E7CC_9099_3E84_41DD_48742B2376AA.text = Proceeding to Congress Session
+HotspotPanoramaOverlayTextImage_6C8F174F_7DF7_7FE2_41D9_88BFFDB9094D.text = Shaukat Ali Former Congress President with Mahatma Gandhi
+HotspotPanoramaOverlayTextImage_8A7B44B2_9F7B_329F_41E2_F692C7A7DD7F.text = Site where 39th Session of Indian National Congress was held at Belgaum in 1924
+HotspotPanoramaOverlayTextImage_723A38D5_7DD9_52E1_41D6_E3C5735BD61D.text = Way to \
+Library
+HotspotPanoramaOverlayTextImage_71D680F0_7188_E171_41A3_14CFA4CFB6C3.text = Way to  \
+Gandhiji's Hall
+HotspotPanoramaOverlayTextImage_643124A5_7188_6193_41D6_35C708A34C7A.text = Welcome to VeerSouda Park
+HotspotPanoramaOverlayTextImage_84FA5E99_90EB_6E8C_41A8_A443ADBF1B5D.text = assumes charge as Congress President
+
+## Media
+
+### Image
+imlevel_58A3AB80_7B12_1013_41DD_80E23D4EB659.url = media/panorama_43FFE03F_65AC_6963_41B2_7A2E33391D45_HS_o6h6gdut_en.png
+imlevel_58A67BC1_7B12_1012_41D5_9039BE9DABE0.url = media/panorama_49F55B0B_6594_DF23_41CD_00F5C9F8FC3D_HS_c9etkvgy_en.png
+imlevel_6129F222_7DDA_D1A2_41C0_5BD52FA10B05.url = media/panorama_49F55B0B_6594_DF23_41CD_00F5C9F8FC3D_HS_d6xgjv1q_en.png
+imlevel_59CA7A47_7B12_101D_4171_DF8CDBA53341.url = media/panorama_6BC51BA3_659C_5F1C_41C9_2B658E4CD0FD_HS_1iehvcxl_en.png
+imlevel_55CBB4E4_7188_2191_41CF_2B271F178ACE.url = media/panorama_6BC51BA3_659C_5F1C_41C9_2B658E4CD0FD_HS_3keodmo9_en.png
+imlevel_85F68744_9401_D5FD_4194_4883C43F2910.url = media/panorama_6D2B5D8C_7DF7_3366_41C2_47BF5FA80E0A_HS_ev7qnt2n_en.png
+imlevel_72E136F1_7E31_E7E8_41D5_5C7142DADCFA.url = media/panorama_6D7E3134_7DD7_53A6_41D6_0B00A242AE70_HS_pv569nth_en.png
+imlevel_612A32C3_7DDA_D6E2_41DE_B80DC2F42A61.url = media/panorama_6DBBC65E_7DD9_31E2_41D2_B28ECAD1E2F0_HS_wec693l5_en.png
+imlevel_75DA6797_7E31_E628_41D6_8B433C2AF9E1.url = media/panorama_6FA005C0_7DEF_D2DF_41D7_EF8E086B5700_HS_za6mi7c2_en.png
+imlevel_589CBB1E_7B12_102E_41BD_6B683E472B95.url = media/panorama_71A99F89_65AC_572C_41D4_CD1C307E37C3_HS_s4tuay7b_en.png
+imlevel_616EF08C_7DDA_D166_41D2_FA960A7AC9A5.url = media/panorama_7CE10448_65BC_292C_41D6_E972DC6DB3FC_HS_08lxe9iq_en.png
+imlevel_71E2E08A_7188_2196_41C8_364591FC5580.url = media/panorama_7CE10448_65BC_292C_41D6_E972DC6DB3FC_HS_rvevf2uz_en.png
+imlevel_86E46C11_9401_DB97_41D8_B9BCC32A33D0.url = media/panorama_83BB46AC_90E9_3E84_41BA_143E849C78E2_HS_lyl1ri5e_en.png
+imlevel_86E20BC8_9401_DCF4_41BF_374C0D207594.url = media/panorama_83BB46AC_90E9_3E84_41BA_143E849C78E2_HS_v30pszwh_en.png
+imlevel_86E25B93_9401_DC9B_41E0_ABC84989E1F9.url = media/panorama_83BB46AC_90E9_3E84_41BA_143E849C78E2_HS_yw2ks6pe_en.png
+imlevel_86D448F4_9401_DC9D_41D5_FFC286E25023.url = media/panorama_83C9877B_906A_FF8C_41D2_166AECE72548_HS_6e0baeb1_en.png
+imlevel_86D6A955_9401_DD9F_41C5_B333E49D63F5.url = media/panorama_83C9877B_906A_FF8C_41D2_166AECE72548_HS_haaxm60u_en.png
+imlevel_86E34B6F_9401_DD8B_41D8_811F7F8C240D.url = media/panorama_846E5F61_909F_2FBF_41DE_0E0167F39952_HS_1wbc43ox_en.png
+imlevel_86E18B3C_9401_DD8D_41E1_4E45DF303E80.url = media/panorama_846E5F61_909F_2FBF_41DE_0E0167F39952_HS_3xudb32z_en.png
+imlevel_86EEEAC7_9401_DCFB_41C9_CA5DAF3C4831.url = media/panorama_846E5F61_909F_2FBF_41DE_0E0167F39952_HS_jsc0pzeu_en.png
+imlevel_86EECAEB_9401_DC8B_41E1_94043DEA8A23.url = media/panorama_846E5F61_909F_2FBF_41DE_0E0167F39952_HS_m92qj3jv_en.png
+imlevel_86EFEA97_9401_DC9B_41A6_925D56308759.url = media/panorama_846E5F61_909F_2FBF_41DE_0E0167F39952_HS_miknco2y_en.png
+imlevel_86E959DE_9401_DC8D_41D3_2E1A0A4619A1.url = media/panorama_84C2E0B6_90BF_3284_41E1_9B8CC8AB9B84_HS_9qq0vxhd_en.png
+imlevel_86EDCA6F_9401_DF8C_41D7_155A7E2C607D.url = media/panorama_84C2E0B6_90BF_3284_41E1_9B8CC8AB9B84_HS_i28r64sh_en.png
+imlevel_86ED8A46_9401_DFFD_41CB_72471F8C29B3.url = media/panorama_84C2E0B6_90BF_3284_41E1_9B8CC8AB9B84_HS_qudufl3m_en.png
+imlevel_86E8BA0D_9401_DF8F_41B4_14088DB1111F.url = media/panorama_84C2E0B6_90BF_3284_41E1_9B8CC8AB9B84_HS_yofg3zpr_en.png
+imlevel_86F95C55_9401_DB9F_41DE_CDEA664AB2FA.url = media/panorama_8769A639_9097_F18D_41D3_6DFE9F66A9FB_HS_67lcv0xd_en.png
+imlevel_86FA7D09_9401_D577_41DB_B5DEEFEBCB3D.url = media/panorama_8769A639_9097_F18D_41D3_6DFE9F66A9FB_HS_cfk7v662_en.png
+imlevel_86F8DC9F_9401_D48B_41C8_EF453F0FDBBA.url = media/panorama_8769A639_9097_F18D_41D3_6DFE9F66A9FB_HS_erz1ccjp_en.png
+imlevel_91A9911C_9D1B_0034_41CF_2A11A6DCB2D9.url = media/panorama_89E0CA9E_9BBB_F687_41E0_BB91B5BF78D6_HS_9u4tn7g5_en.png
+imlevel_91AB80EB_9D1B_001C_41CC_727A63560681.url = media/panorama_89E0CA9E_9BBB_F687_41E0_BB91B5BF78D6_HS_d95mbjp6_en.png
+imlevel_91B4808F_9D1B_0013_41E0_7B8E38E8E6E7.url = media/panorama_89E0CA9E_9BBB_F687_41E0_BB91B5BF78D6_HS_hrbt6lpn_en.png
+imlevel_8E9F02EE_9BCB_3687_41A7_78384F358520.url = media/panorama_89E0CA9E_9BBB_F687_41E0_BB91B5BF78D6_HS_lfdj3oqo_en.png
+imlevel_896441F3_9BCB_329D_41CC_149601E0297D.url = media/panorama_9CD62476_8F99_1187_41D9_BE25098F90C4_HS_4jbx5743_en.png
+imlevel_8E9A422B_9BCB_318D_41E1_3D901F51575D.url = media/panorama_9CD62476_8F99_1187_41D9_BE25098F90C4_HS_ek2dx8k6_en.png
+imlevel_8E986288_9BCB_368B_41B7_7174B04D5F8B.url = media/panorama_9CD62476_8F99_1187_41D9_BE25098F90C4_HS_u37aawur_en.png
+imlevel_89659199_9BCB_328D_41DF_A134927E32C3.url = media/panorama_9D058C52_8F99_319F_41D4_3B14F886BD99_HS_1auhmml4_en.png
+imlevel_91766026_9D1B_0015_41C2_37DB34CD7E31.url = media/panorama_9D058C52_8F99_319F_41D4_3B14F886BD99_HS_5tnp52yi_en.png
+imlevel_90536F92_9D1B_000C_41E2_7B370B2017BA.url = media/panorama_9D058C52_8F99_319F_41D4_3B14F886BD99_HS_m9kf5695_en.png
+imlevel_8965917A_9BCB_338F_41DF_4D15B369BF66.url = media/panorama_9F66CEE6_8FBB_2E87_41BB_61096C174D63_HS_2duszpcr_en.png
+imlevel_86D2189F_9401_DC8B_41CF_D359BC483E76.url = media/panorama_9F66CEE6_8FBB_2E87_41BB_61096C174D63_HS_9mp4lrm8_en.png
+imlevel_86D3786B_9401_DB8B_41D0_DEC14BFE2B84.url = media/panorama_9F66CEE6_8FBB_2E87_41BB_61096C174D63_HS_nh8vkvfz_en.png
+imlevel_86D03847_9401_DBFB_41DB_3C3438E8F808.url = media/panorama_9F66CEE6_8FBB_2E87_41BB_61096C174D63_HS_ur4xi1g5_en.png
+imlevel_86D578C6_9401_DCFD_41D0_C84BB0A2ED49.url = media/panorama_9F66CEE6_8FBB_2E87_41BB_61096C174D63_HS_zm3z62o0_en.png
+imlevel_86FF4DE4_9401_D4BD_41DA_9CC8A8777767.url = media/panorama_B63EE514_919B_3384_41E1_BB5E59B9725B_HS_he6ybt0r_en.png
+imlevel_916FD04C_9D1B_0014_41C6_36FA1CFCC1E4.url = media/panorama_B63EE514_919B_3384_41E1_BB5E59B9725B_HS_heajs1dx_en.png
+imlevel_86FC2DAB_9401_D48B_41C4_366ED6BB4413.url = media/panorama_B63EE514_919B_3384_41E1_BB5E59B9725B_HS_n338mxfg_en.png
+
+### Title
+video_67773E97_75BB_61D8_41D2_A2B87E5B21A9.label = Gandhiji Poster
+video_67206F71_75A9_BF59_41A9_C951C86776AF.label = Gandhiji Statue
+video_67069F00_75B8_A0B8_4192_C7E8BCB43960.label = Gandhiyan Well
+video_67EA22F6_75A8_A158_41D8_4C93AC0BED3C.label = Green Garden
+video_67DAEE24_759B_E0FF_41DB_43EA4713248D.label = Introduction
+panorama_6BC51BA3_659C_5F1C_41C9_2B658E4CD0FD.label = R0010150_20230407062914
+panorama_75D9E4A1_6594_691C_41C2_08EC30A236FD.label = R0010154_20230407063346
+panorama_71A99F89_65AC_572C_41D4_CD1C307E37C3.label = R0010159_20230407063914
+panorama_7419BBF3_65B4_3EFC_41C2_AD6D428E991A.label = R0010161_20230407064240
+panorama_74133A88_65B3_F92D_41D3_E6A78F23E4E0.label = R0010169_20230407070249
+panorama_7CE10448_65BC_292C_41D6_E972DC6DB3FC.label = R0010175_20230407070711
+panorama_407A6B9D_65B4_DF24_41C3_620ED16A15E9.label = R0010180_20230407071239
+panorama_43FFE03F_65AC_6963_41B2_7A2E33391D45.label = R0010187_20230407071717
+panorama_49F55B0B_6594_DF23_41CD_00F5C9F8FC3D.label = R0010193_20230407072100
+panorama_4FC1FDBE_65F3_FB64_41B8_A0DF9FDFA2E2.label = R0010205_20230407072844
+panorama_6DBBC65E_7DD9_31E2_41D2_B28ECAD1E2F0.label = R0010243_20230414074013
+panorama_6D7E3134_7DD7_53A6_41D6_0B00A242AE70.label = R0010250_20230414074551
+panorama_6FA005C0_7DEF_D2DF_41D7_EF8E086B5700.label = R0010251_20230414074831
+panorama_6D2B5D8C_7DF7_3366_41C2_47BF5FA80E0A.label = R0010261_20230414075956
+panorama_9D058C52_8F99_319F_41D4_3B14F886BD99.label = R0010265_20230417160047
+panorama_9F66CEE6_8FBB_2E87_41BB_61096C174D63.label = R0010274_20230417160850
+panorama_89E0CA9E_9BBB_F687_41E0_BB91B5BF78D6.label = R0010279_20230417161356
+panorama_9CD62476_8F99_1187_41D9_BE25098F90C4.label = R0010286_20230417162022
+panorama_83C9877B_906A_FF8C_41D2_166AECE72548.label = R0010293_20230417163101
+panorama_B63EE514_919B_3384_41E1_BB5E59B9725B.label = R0010299_20230417163412
+panorama_84C2E0B6_90BF_3284_41E1_9B8CC8AB9B84.label = R0010305_20230417163842
+panorama_846E5F61_909F_2FBF_41DE_0E0167F39952.label = R0010311_20230417164258
+panorama_83BB46AC_90E9_3E84_41BA_143E849C78E2.label = R0010318_20230417164655
+panorama_8769A639_9097_F18D_41D3_6DFE9F66A9FB.label = R0010331_20230417165349
+video_678DA633_75A9_E0D8_41CB_941202267588.label = S M Krishna
+video_889AA4C0_9957_F16A_41DE_1038C956AE09.label = hall
+video_88531700_994C_50EA_41E2_E5CBDA657A12.label = library
+
+### Video
+videolevel_92DF31B1_9D25_000C_41CA_44BC87FED873.url = media/video_67069F00_75B8_A0B8_4192_C7E8BCB43960_en.mp4
+videolevel_92DF31B1_9D25_000C_41CA_44BC87FED873.posterURL = media/video_67069F00_75B8_A0B8_4192_C7E8BCB43960_poster_en.jpg
+videolevel_92DEC180_9D25_000C_41E3_3EA3D899E512.url = media/video_67206F71_75A9_BF59_41A9_C951C86776AF_en.mp4
+videolevel_92DEC180_9D25_000C_41E3_3EA3D899E512.posterURL = media/video_67206F71_75A9_BF59_41A9_C951C86776AF_poster_en.jpg
+videolevel_92DC61E4_9D25_0014_41DE_EF77877593A7.url = media/video_67773E97_75BB_61D8_41D2_A2B87E5B21A9_en.mp4
+videolevel_92DC61E4_9D25_0014_41DE_EF77877593A7.posterURL = media/video_67773E97_75BB_61D8_41D2_A2B87E5B21A9_poster_en.jpg
+videolevel_92DB6131_9D25_000C_41C2_D20EB0D8D278.url = media/video_678DA633_75A9_E0D8_41CB_941202267588_en.mp4
+videolevel_92DB6131_9D25_000C_41C2_D20EB0D8D278.posterURL = media/video_678DA633_75A9_E0D8_41CB_941202267588_poster_en.jpg
+videolevel_92DA5102_9D25_000C_41DC_B64782355D28.url = media/video_67DAEE24_759B_E0FF_41DB_43EA4713248D_en.mp4
+videolevel_92DA5102_9D25_000C_41DC_B64782355D28.posterURL = media/video_67DAEE24_759B_E0FF_41DB_43EA4713248D_poster_en.jpg
+videolevel_92D8515F_9D25_0034_41D6_CDDB80501902.url = media/video_67EA22F6_75A8_A158_41D8_4C93AC0BED3C_en.mp4
+videolevel_92D8515F_9D25_0034_41D6_CDDB80501902.posterURL = media/video_67EA22F6_75A8_A158_41D8_4C93AC0BED3C_poster_en.jpg
+videolevel_92D29215_9D25_0034_41BE_32F09478CD86.url = media/video_88531700_994C_50EA_41E2_E5CBDA657A12_en.mp4
+videolevel_92D29215_9D25_0034_41BE_32F09478CD86.posterURL = media/video_88531700_994C_50EA_41E2_E5CBDA657A12_poster_en.jpg
+videolevel_92D33236_9D25_0075_41D0_194E4A79E961.url = media/video_889AA4C0_9957_F16A_41DE_1038C956AE09_en.mp4
+videolevel_92D33236_9D25_0075_41D0_194E4A79E961.posterURL = media/video_889AA4C0_9957_F16A_41DE_1038C956AE09_poster_en.jpg
+
+### Video Subtitles
+
+## Popup
+
+### Body
+htmlText_CD8F956B_7198_E097_41D4_6FE41D63DFD4.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Born and raised in a Hindu family in coastal Gujarat, Gandhi trained in the law at the Inner Temple, London, and was called to the bar at age 22 in June 1891. After two uncertain years in India, where he was unable to start a successful law practice, he moved to South Africa in 1893 to represent an Indian merchant in a lawsuit. He went on to live in South Africa for 21 years. It was here that Gandhi raised a family and first employed nonviolent resistance in a campaign for civil rights. In 1915, aged 45, he returned to India and soon set about organising peasants, farmers, and urban labourers to protest against excessive land-tax and discrimination.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Assuming leadership of the Indian National Congress in 1921, Gandhi led nationwide campaigns for easing poverty, expanding women's rights, building religious and ethnic amity, ending untouchability, and, above all, achieving swaraj or self-rule. Gandhi adopted the short dhoti woven with hand-spun yarn as a mark of identification with India's rural poor. He began to live in a self-sufficient residential community, to eat simple food, and undertake long fasts as a means of both introspection and political protest. Bringing anti-colonial nationalism to the common Indians, Gandhi led them in challenging the British-imposed salt tax with the 400 km (250 mi) Dandi Salt March in 1930 and in calling for the British to quit India in 1942. He was imprisoned many times and for many years in both South Africa and India.</SPAN></DIV></BODY></HTML></div>
+htmlText_2091FB43_7188_2097_41A2_63D96589DDE8.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Somanahalli Mallaiah Krishna (born 1 May 1932) is an Indian politician who served as Minister of External Affairs of India from 2009 to October 2012.[1] He was the 10th Chief Minister of Karnataka from 1999 to 2004 and the 19th Governor of Maharashtra from 2004 to 2008. SM Krishna had served as the Speaker of the Karnataka Vidhan Sabha from December 1989 to January 1993. He was also a member of Lok Sabha and Rajya Sabha at various times from 1971 to 2014. In 2023, Krishna was awarded the Padma Vibhushan, the second highest civilian award of India.</SPAN></DIV></BODY></HTML></div>
+
+## Skin
+
+### Button
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A.label = 360º VIEWS
+Button_6B3517BB_64A6_3EE4_41D7_49868CE9F7A9.label = BUTTON
+Button_7DE3659A_6911_E2E0_41C3_93316288CBE4.label = GO TO BUY 
+Button_750C11A1_648F_A89A_41C9_2E58278A81A6.label = INFORMATION
+Button_748008CC_648F_B8AA_41C2_97E5C5DE0CD2.label = PHOTOALBUM
+
+### Image
+Image_1F089AA1_342D_3D64_41C5_D320F4A4C707.url = skin/Image_1F089AA1_342D_3D64_41C5_D320F4A4C707_en.png
+Image_1F5560D3_342D_0D24_41C3_009D491A3B6B.url = skin/Image_1F5560D3_342D_0D24_41C3_009D491A3B6B_en.png
+Image_1FC09DB8_342E_F764_41A3_E939228A46A8.url = skin/Image_1FC09DB8_342E_F764_41A3_E939228A46A8_en.png
+Image_1FC43E22_342D_1564_41BB_A63B6F19A750.url = skin/Image_1FC43E22_342D_1564_41BB_A63B6F19A750_en.png
+Image_6924E557_649A_33AC_41BA_A1E22386BC22.url = skin/Image_6924E557_649A_33AC_41BA_A1E22386BC22_en.png
+Image_6B6FAA55_64A6_71AF_41D3_F197980C21A5.url = skin/Image_6B6FAA55_64A6_71AF_41D3_F197980C21A5_en.png
+Image_7DE3B59A_6911_E2E0_41D3_E1AF7DF208C7.url = skin/Image_7DE3B59A_6911_E2E0_41D3_E1AF7DF208C7_en.jpg
+
+### Multiline Text
+HTMLText_7DE3759A_6911_E2E0_41A7_C2659986BA1F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.0199999999999996vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.02vw;font-family:'Exo';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5699999999999998vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:1.57vw;font-family:'Exo';"><B><I>SPORTBACK 1.4 / TDI ULTRA / 90 CV / ATTRACTION </I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.97vw;font-family:'Roboto Black';">General Data:</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.78vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.7799999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.97vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:0.97vw;font-family:'Roboto Black';">Year 2019 / 51.214 kms / Diesel / </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:0.97vw;font-family:'Roboto Black';">5 doors / 90 cv / Manual</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.4499999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.45vw;font-family:'Exo';"><B>$18300</B></SPAN></SPAN></DIV></div>
+HTMLText_524CEEAF_7E31_E3D9_41D5_A18634B5A288.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 15px rgba(0,0,0,0.6);text-align:left;font-size:5.250000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#e7392b;font-size:5.25vmin;font-family:'Exo';"><B><I>MOMENTUM</I></B></SPAN></SPAN></DIV></div>
+HTMLText_6BDD8039_64A6_31E4_41D7_D3C38C6C69F2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 15px rgba(0,0,0,0.6);text-align:left;font-size:7.43vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#ffffff;font-size:7.43vmin;font-family:'Exo';"><B><I>VOLVO XC90</I></B></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = VeerSouda Park
